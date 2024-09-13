@@ -9,7 +9,7 @@ Es una aplicación web que cuenta con un botón que, al pulsarlo, te saluda y la
 - [x] Crear la estructura HTML
 - [x] Aplicar estilos con CSS
 - [x] Dotar de comportamiento con JavaScript
-- [ ] Deploy
+- [x] Deploy
 
 
 ### Sprint 2
