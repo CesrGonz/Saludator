@@ -1,7 +1,16 @@
 # Saludator
 
 ## Descripción
-Es una aplicación web que cuenta con un botón que, al pulsarlo, te saluda y lanza confeti.
+Ejercicio 1 de desarrollo de Interfaces - DAM 2 - Aplicacion Web que te saluda por pantalla
+
+## Tecnologias
+HTML
+CSS
+JavaScript (Vanilla)
+
+## Deployment 
+https://cesrgonz.github.io/Saludator/
+
 
 ## Etapas
 
@@ -14,4 +23,5 @@ Es una aplicación web que cuenta con un botón que, al pulsarlo, te saluda y la
 
 ### Sprint 2
 - [] Mejorar la interface grafica
-- [] Poner el confetti
+- [x] Poner el confetti
+  
